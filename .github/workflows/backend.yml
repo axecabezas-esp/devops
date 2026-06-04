@@ -6,7 +6,7 @@ on:
 
   push:
 
-    branches: [ "master" ] # Mantenemos tu configuración original de rama
+    branches: [ "main" ] # Mantenemos tu configuración original de rama
 
     paths:
 
