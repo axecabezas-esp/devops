@@ -74,7 +74,7 @@ jobs:
 
         # --- DESTINO FINAL: INSTANCIA DE LA APP / BACKEND ---
 
-        host: "10.0.2.144"                          # Tu IP privada fija del Backend
+        host: "10.0.2.173"                          # Tu IP privada fija del Backend
 
         username: ec2-user
 

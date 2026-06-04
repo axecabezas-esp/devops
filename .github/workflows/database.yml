@@ -74,7 +74,7 @@ jobs:
 
         # --- DESTINO FINAL: INSTANCIA DE LA BASE DE DATOS ---
 
-        host: "10.0.3.17"                          # IP privada fija de tu BD
+        host: "10.0.3.215"                          # IP privada fija de tu BD
 
         username: ec2-user
 
